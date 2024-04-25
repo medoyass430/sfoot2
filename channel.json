@@ -2,25 +2,25 @@
   
   "Categories":[
     {
-      "CategoryName":"al ahly vc riyadh",
+      "CategoryName":"Channel",
       "ChannelsList":[
         {
           "ChannelName":"working",
           "ChannelDescription":"",
           "ChannelLogo":"https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-tv-bubble-live-broadcast-pattern-png-image_2473429.jpg",
-          "ChannelLink":"https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/vdlN5azWa5GUPD_0qjY6JjxgwgM2PUquXMfzwQVN8srkMlCGcEPsRE_rjezszOHfGIV0OXkm_6Q-US_7ZdgyhA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/dynamic_delta.m3u8?type=live&_HLS_skip=YES",
+          "ChannelLink":"",
           "Play_In":"app"
         }
         ]
     },
         {
-      "CategoryName":"man city vc brighton",
+      "CategoryName":"Channel",
       "ChannelsList":[
         {
           "ChannelName":"working",
           "ChannelDescription":"",
           "ChannelLogo":"https://png.pngtree.com/png-clipart/20201125/ourmid/pngtree-red-tv-bubble-live-broadcast-pattern-png-image_2473429.jpg",
-          "ChannelLink":"https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/yH4FqH0_V--Cnl61kpRhoWZyFSBtj_UIXqqc2yAfL0gGFLiHMuFCQVOZGhd0U09wwHR0Ko6rKEkCtp7yXnDyag/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live&_HLS_skip=YES",
+          "ChannelLink":"",
           "Play_In":"app"
         }
         ]
